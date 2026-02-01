@@ -23,9 +23,9 @@ This way the context becomes independent of concrete strategies, so you can add 
 algorithms or modify existing ones without changing the code of the context or other 
 strategies.
 
-![](/Users/cintiaschutt/Code/java-projects/design-patterns/src/main/resources/images/image.png)
+<img src="./src/main/resources/images/image2.png"/>
 
-![](/Users/cintiaschutt/Code/java-projects/design-patterns/src/main/resources/images/image2.png)
+<img src="./src/main/resources/images/image2.png"/>
 
 ### **How to Implement**
 
