@@ -23,7 +23,7 @@ This way the context becomes independent of concrete strategies, so you can add 
 algorithms or modify existing ones without changing the code of the context or other 
 strategies.
 
-<img src="./src/main/resources/images/image2.png"/>
+<img src="./src/main/resources/images/image.png"/>
 
 <img src="./src/main/resources/images/image2.png"/>
 
