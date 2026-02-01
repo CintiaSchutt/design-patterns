@@ -23,6 +23,10 @@ This way the context becomes independent of concrete strategies, so you can add 
 algorithms or modify existing ones without changing the code of the context or other 
 strategies.
 
+![](/Users/cintiaschutt/Downloads/image.png)
+
+![](/Users/cintiaschutt/Downloads/image2.png)
+
 ### **How to Implement**
 
 1. In the context class, identify an algorithm that’s prone to frequent changes. 
